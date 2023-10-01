@@ -67,7 +67,7 @@ body{
 .titulo{
     display: flex;
     position: absolute;
-    margin: 130px auto;
+    margin: 150px auto;
     flex-wrap: wrap;
     width: 400px;
     height: 100px;
